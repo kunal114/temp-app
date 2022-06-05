@@ -1,0 +1,3 @@
+# this file is used to stop pushing specific folders into git repo
+node_modules/
+config/config.env
